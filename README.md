@@ -31,3 +31,7 @@ Caso 3
 Caso 4
 
 ![grafcaso3](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/Caso4.jpeg)
+
+Caso 5
+
+![grafcaso5](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/Caso5.jpeg)
