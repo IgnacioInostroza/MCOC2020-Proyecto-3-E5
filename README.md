@@ -27,6 +27,9 @@ Caso 6
 
 ![gifcaso6](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/GIF_Caso_6.gif)
 
+Caso 7
+
+![gifcaso7](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/GIF_Caso_7.gif)
 
 
 
