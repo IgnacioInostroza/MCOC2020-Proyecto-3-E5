@@ -17,8 +17,7 @@ Caso 4
 
 Caso 5
 
-![gifcaso5](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/GIF_Caso_5.gif)
-![grafcaso5](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/Caso5.jpeg)
+![gifcaso5](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/GIF_Caso_5.gif)![grafcaso5](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E5/main/Caso5.jpeg)
 
 Caso 6
 
